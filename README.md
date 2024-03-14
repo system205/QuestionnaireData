@@ -1,1 +1,1 @@
-This repository contains the answers on our questionnaier for [this article](/)
+This repository contains the results of our survey for [this article](/)
