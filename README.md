@@ -1,3 +1,7 @@
+# Questionnaire Data
+
+[![DOI](https://zenodo.org/badge/772090020.svg)](https://zenodo.org/doi/10.5281/zenodo.10996387)
+
 This repository contains the results of our survey for the following paper:
 
 > Vitaly Alifanov, Kamil Almetov, Ivan Kornienko, Arsen Mutalapov, Yegor Bugayenko.
